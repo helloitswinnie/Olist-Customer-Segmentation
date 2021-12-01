@@ -58,7 +58,7 @@ In the modeling phase, we started by training the model using various numbers of
 We are using 4 clusters in this project because this number of clusters gives us the best inertia as well as silhouette score. Increasing the number of clusters will not decrease the inertia score that significantly, while it will decrease the silhouette score dramatically. Using 4 clusters, we are able to get an inertia score of 1,244,650 and silhouette score of 0.77.
 
 <img src=Images/Inertia.png>
-<img src=Images/Silhouette.png>
+<img src=Images/silhouette.png>
 
 # References
 1. Wu, Jing, and Zheng Lin. “Research on Customer Segmentation Model by Clustering.” Proceedings of the 7th International Conference on Electronic Commerce  - ICEC '05, 15 Aug. 2005, pp. 316–318., https://doi.org/10.1145/1089551.1089610. 
